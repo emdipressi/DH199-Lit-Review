@@ -12,7 +12,8 @@ How can I make a user friendly app that can teach beginners and advanced alike a
 
 ### Keywords
 
-* wood workingpicture frame
+* woodworking
+* picture frame
 * (cork) bulletin board
 * shabby chic
 
